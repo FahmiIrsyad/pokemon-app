@@ -31,7 +31,7 @@ A responsive and interactive Pokémon Explorer built with Vue 3, Vite, Pinia, an
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/pokemon-explorer.git
+git clone https://github.com/your-username/pokemon-app.git
 cd pokemon-explorer
 npm install
 
